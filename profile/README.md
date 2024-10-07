@@ -1,4 +1,4 @@
-### This organization houses projects owned and performed by Labcorp Oncology's Medical Affairs Evidence Generation team.
+### This organization houses projects owned, performed, and published by Labcorp Oncology's Medical Affairs Evidence Generation team.
 
 ### For more information about Labcorp Oncology: https://oncology.labcorp.com/
 
